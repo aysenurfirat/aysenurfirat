@@ -1,4 +1,4 @@
-# aysenurfirat.github.io
+# aysenurfirat
 I would love to introduce myself
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">🌱 I'm passionate about coding and learning new technologies.</h3>
